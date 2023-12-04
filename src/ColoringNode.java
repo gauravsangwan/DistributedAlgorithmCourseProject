@@ -3,10 +3,10 @@ import io.jbotsim.core.Message;
 import io.jbotsim.core.Node;
 
 public class ColoringNode extends Node {
-    public Node parent; // défini dans Main()
+    public Node parent;
 
     @Override
     public void onStart() {
-        setColor(Color.getColorAt(getID())); // couleur = ID
+        setColor(Color.getColorAt(getID()));
     }
 }
