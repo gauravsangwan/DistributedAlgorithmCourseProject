@@ -4,7 +4,7 @@ import io.jbotsim.ui.JTopology;
 import io.jbotsim.ui.JViewer;
 
 public class MainColoring {
-    public final static int n = 365;
+    public final static int n = 11;
     public static void main(String[] args) {
 
         Topology tp = new Topology();
