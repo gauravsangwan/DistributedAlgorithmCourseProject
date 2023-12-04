@@ -2,6 +2,18 @@ import io.jbotsim.core.Color;
 import io.jbotsim.core.Message;
 import io.jbotsim.core.Node;
 
+// Uncomment the following class for 3 coloring algorithm
+//public class ColoringNode extends Node {
+//    public Node parent;
+//
+//    @Override
+//    public void onStart() {
+//        setColor(Color.getColorAt(getID()));
+//    }
+//}
+
+
+// 6 coloring algorithm comment this if using 3 coloring algorithm
 public class ColoringNode extends Node {
     public Node parent; // defined in Main()
 
