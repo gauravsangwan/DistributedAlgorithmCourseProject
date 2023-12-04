@@ -62,7 +62,7 @@ git clone https://github.com/your-username/your-repo-name.git
 This project was developed as part of the Distributed Algorithm course (CSL7920) and is intended for educational purposes.
 
 ## Author
-[Gaurav Sangwan](https://github.com/gauravsangwan)
-[Saiyam Arora](https://github.com/SamArora18)
+- [Gaurav Sangwan](https://github.com/gauravsangwan)
+- [Saiyam Arora](https://github.com/SamArora18)
 
 If you have any questions or need further assistance, feel free to reach out to me. Thank you for reviewing my project submission!
