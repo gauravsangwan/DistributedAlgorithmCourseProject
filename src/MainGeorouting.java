@@ -29,7 +29,7 @@ public class MainGeorouting implements SelectionListener{
             targetNode = selectedNode;
             targetNode.setIcon(Icons.FLAG);
             targetNode.setIconSize(14);
-            sourceNode.route(new Bundle(targetNode.getLocation(), "HELLO"));
+            sourceNode.route(new Bundle(targetNode.getLocation(), "HELLO, Let's meet this weekend."));
         }
     }
 
