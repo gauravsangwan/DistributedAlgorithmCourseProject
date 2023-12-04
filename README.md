@@ -63,5 +63,6 @@ This project was developed as part of the Distributed Algorithm course (CSL7920)
 
 ## Author
 [Gaurav Sangwan](https://github.com/gauravsangwan)
+[Saiyam Arora](https://github.com/SamArora18)
 
 If you have any questions or need further assistance, feel free to reach out to me. Thank you for reviewing my project submission!
